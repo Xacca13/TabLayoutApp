@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="button_text">Ромашка</string>
+    <array name="titles_fragment">
+        <item name="Описание">Описание</item>
+        <item name="Применение">Применение</item>
+    </array>
+</resources>
